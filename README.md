@@ -10,8 +10,9 @@ Historyczna strona kursu: https://cs.if.uj.edu.pl/edu/kryptografia/
 
 Prowadzący: dr hab. Jakub Mielczarek, prof. UJ
 
-Wykład będzie zakończony egzaminem pisemnym oraz ustnym. Uzyskanie z labolatorium oceny 5 podnosi ocenę z egzaminu o 1 stopień. Natomiast uzyskanie oceny 4,5 podnosi o 0,5 stopnia.
+Wykład będzie zakończony egzaminem pisemnym. 
 
+Uzyskanie z labolatorium oceny 5 podnosi ocenę z egzaminu o 1 stopień. Natomiast uzyskanie oceny 4,5 podnosi o 0,5 stopnia.
 
 ## Laboratoria 
 
