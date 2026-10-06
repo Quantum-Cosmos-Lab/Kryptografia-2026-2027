@@ -24,8 +24,6 @@ Prowadzący: dr Piotr Czarnik, mgr Bartosz Grygielski
 
 ## Lista wykładów
 
-- [Wykład 1 ](x.pdf)
-- [Wykład 2 ](x.pdf)
-- [Wykład 3 ](x.pdf)
+- [Wykład 1 ](Kryptografia_1.pdf)
 
 ## Zestawy zadań 
