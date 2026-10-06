@@ -12,7 +12,7 @@ Prowadzący: dr hab. Jakub Mielczarek, prof. UJ
 
 Wykład będzie zakończony egzaminem pisemnym. 
 
-Uzyskanie z labolatorium oceny 5 podnosi ocenę z egzaminu o 1 stopień. Natomiast, uzyskanie oceny 4,5 podnosi 
+Uzyskanie z labolatoriów oceny 5 podnosi ocenę z egzaminu o 1 stopień. Natomiast, uzyskanie oceny 4,5 podnosi 
 ocenę z egzaminu o 0,5 stopnia.
 
 ## Laboratoria 
