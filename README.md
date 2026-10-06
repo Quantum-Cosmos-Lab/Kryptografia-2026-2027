@@ -26,3 +26,4 @@ Prowadzący: dr Piotr Czarnik, mgr Bartosz Grygielski
 - [Wykład 2 ](x.pdf)
 - [Wykład 3 ](x.pdf)
 
+## Zestawy zadań 
