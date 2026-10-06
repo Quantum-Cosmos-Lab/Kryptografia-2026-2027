@@ -17,7 +17,7 @@ ocenę z egzaminu o 0,5 stopnia.
 
 ## Laboratoria 
 
-Czwartek, 
+Czwartek,  13:00-14:30 gr. 1 (G-1-07); 14:30-16:00 gr. 3 (G-1-05); 14:30-16:00 gr. 2 (G-1-07).
 
 Prowadzący: dr Piotr Czarnik, mgr Bartosz Grygielski 
 
