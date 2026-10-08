@@ -21,9 +21,9 @@ W przypadku gdy rozwiązaniem jest kod komputerowy implementujący algorytm lub 
 ## Sposób oceniania
 
 - Na ocenę końcową **z laboratorium** składają się dwie oceny cząstkowe:
-  - Ocena za procentową ilość zadeklarowanych zadań $O_d$ - $60\\%$
+  - Ocena za procentową ilość punktów z zadeklarowanych zadań $O_d$ - $60\\%$
   - Średnia ocena ze sprawdzianów (z równymi wagami) $O_s$ - $40\\%$
-- Progi procentowe za ilość zadeklarowanych zadań przedstawiają się następująco:
+- Progi procentowe za ilość punktów z zadeklarowanych zadań przedstawiają się następująco:
   - $<50\\%$ - 2.0
   - $\geq 50\\%$ - 3.0
   - $\geq 60\\%$ - 3.5
