@@ -21,7 +21,8 @@ Czwartek,  13:00-14:30 gr. 1 (G-1-07); 14:30-16:00 gr. 3 (G-1-05); 14:30-16:00 g
 
 Prowadzący: dr Piotr Czarnik, mgr Bartosz Grygielski 
 
-[Zasady zaliczenia](Zasady%20zaliczenia%20laboratoria.md)
+- [Zasady zaliczenia](Zasady%20zaliczenia%20laboratoria.md)
+- [Lista 1](Lista%201)
 
 ## Lista wykładów
 
