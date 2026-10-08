@@ -26,5 +26,6 @@ Prowadzący: dr Piotr Czarnik, mgr Bartosz Grygielski
 ## Lista wykładów
 
 - [Wykład 1 ](Kryptografia_1.pdf)
+- [Uzupełnienie matematyczne 1](Kryptografia__uzupełnienie_matematyczne_1.pdf)
 
 ## Zestawy zadań 
