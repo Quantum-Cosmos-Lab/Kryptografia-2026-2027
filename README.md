@@ -35,4 +35,3 @@ Prowadzący: dr Piotr Czarnik, mgr Bartosz Grygielski
 - [Uzupełnienie matematyczne 2](Kryptografia___uzupełnienie_matematyczne_2.pdf)
 - [Uzupełnienie matematyczne 3](Kryptografia___uzupełnienie_matematyczne_3.pdf)
 
-## Zestawy zadań 
