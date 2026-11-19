@@ -28,6 +28,7 @@ Prowadzący: dr Piotr Czarnik, mgr Bartosz Grygielski
 - [Lista 4](Lista%204)
 - [Lista 5](Lista%205)
 - [Lista 6](Lista%206)
+- [Lista 7](Lista@207)
 
 ## Lista wykładów
 
